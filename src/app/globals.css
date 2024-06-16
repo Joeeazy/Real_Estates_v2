@@ -85,3 +85,13 @@
   background-positon: 30%;
   background-size: cover;
 }
+
+.works {
+  background-image: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 0.7),
+      rgb(0, 0, 0, 0.5)
+    ),
+    url("../../public/works.jpeg");
+  background-size: cover;
+}
