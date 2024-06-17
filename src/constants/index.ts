@@ -122,7 +122,7 @@ export const FEATURED_PROPERTIES = [
 
 export const SERVICES_TEXT = `Buying: We offer personalized assistance to help you find the perfect property to suit your needs and budget. Our agents will guide you through the entire buying process, from property selection to closing the deal. Selling: When it comes to selling your property, our expert agents will create a customized marketing strategy to attract potential buyers and get you the best possible price.`;
 
-export const ABOUT_US_TEXT = `At RealEs, we are committed to providing exceptional real estate services to our clients. With years of experience in the industry, our team of expert agents is dedicated to helping you achieve your real estate goals. Whether you're buying, selling, renting, or looking for property management services, we're here to assist you every step of the way. Our mission is to make your real estate experience as seamless and stress-free as possible. Contact us today to learn more about how we can help you with all your real estate needs.`;
+export const ABOUT_US_TEXT = `At Joe Estates, we are committed to providing exceptional real estate services to our clients. With years of experience in the industry, our team of expert agents is dedicated to helping you achieve your real estate goals. Whether you're buying, selling, renting, or looking for property management services, we're here to assist you every step of the way. Our mission is to make your real estate experience as seamless and stress-free as possible. Contact us today to learn more about how we can help you with all your real estate needs.`;
 
 export const TESTIMONIALS = [
   {
