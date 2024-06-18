@@ -1,3 +1,17 @@
+# Next.js Landing Page with Tailwind CSS and shadcn
+
+This repository contains a simple and modern landing page built with Next.js, styled using Tailwind CSS, and enhanced with shadcn components.
+
+![readme_img](/public/readme3.png)
+
+## Features
+
+Next.js: A React framework for server-side rendering and static site generation.
+
+Tailwind CSS: A utility-first CSS framework for rapid UI development.
+
+shadcn: A component library that provides accessible and customizable components.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +48,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+![readme_img](/public/readme1.png)
+
+![readme_img](/public/readme2.png)
