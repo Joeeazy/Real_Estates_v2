@@ -1,6 +1,7 @@
 import AboutUs from "@/components/AboutUs";
 import Faq from "@/components/Faq";
 import FeaturedHouses from "@/components/FeaturedHouses";
+import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import HowItWorks from "@/components/HowItWorks";
 import Navbar from "@/components/Navbar";
@@ -19,6 +20,7 @@ export default function page() {
       <AboutUs />
       <Testimonials />
       <Faq />
+      <Footer />
     </>
   );
 }

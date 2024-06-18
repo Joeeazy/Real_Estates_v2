@@ -269,7 +269,7 @@ export const FAQ = [
 
 export const FOOTER = {
   description: `Your Real Estate Company is dedicated to helping you find the perfect home. Whether you're looking to buy, sell, or rent, our team of experienced professionals is here to guide you every step of the way.`,
-  copyright: `Copyright © 2024 Real Estate. All Rights Reserved `,
+  copyright: `Copyright © 2024 Joe Estate. All Rights Reserved `,
   categories: [
     {
       name: "Buy",
