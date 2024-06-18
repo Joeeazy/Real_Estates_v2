@@ -35,8 +35,8 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Joeeazy/React_Agency.git
-   cd react_agency
+   git clone https://github.com/Joeeazy/Real_Estates_v2.git
+   cd real_estates_v2
    ```
 
 2. **Install dependencies:**
