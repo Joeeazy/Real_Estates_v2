@@ -130,7 +130,7 @@ export const TESTIMONIALS = [
     instagram: "@jane.doe",
     feedback:
       "Amazing service! The team went above and beyond to find me the perfect home. I couldn't be happier!",
-    city_country: "New York, USA",
+    city_country: "Kilimani, Nairobi",
     image: "/profile-pictures/user1.jpg",
   },
   {
@@ -138,7 +138,7 @@ export const TESTIMONIALS = [
     instagram: "@john.smith",
     feedback:
       "I was impressed by their professionalism and dedication. Highly recommend their services! I'm so grateful for their expertise.",
-    city_country: "London, UK",
+    city_country: "Westlands, Nairobi",
     image: "/profile-pictures/user2.jpg",
   },
   {
@@ -146,7 +146,7 @@ export const TESTIMONIALS = [
     instagram: "@maria.g",
     feedback:
       "Excellent experience working with them. They made the whole process smooth and stress-free.",
-    city_country: "Madrid, Spain",
+    city_country: "Nyali, Mombasa",
     image: "/profile-pictures/user3.jpg",
   },
   {
@@ -154,7 +154,7 @@ export const TESTIMONIALS = [
     instagram: "@ahmed.hassan",
     feedback:
       "Outstanding service. They listened to my needs and found me the perfect property.",
-    city_country: "Cairo, Egypt",
+    city_country: "Kikuyu, Nairobi",
     image: "/profile-pictures/user4.jpg",
   },
   {
@@ -162,7 +162,7 @@ export const TESTIMONIALS = [
     instagram: "@emily.w",
     feedback:
       "Exceptional service and attention to detail. I would definitely use their services again.",
-    city_country: "Shanghai, China",
+    city_country: "Kasarani, Nairobi",
     image: "/profile-pictures/user5.jpg",
   },
   {
@@ -170,7 +170,7 @@ export const TESTIMONIALS = [
     instagram: "@luca.r",
     feedback:
       "Professional and knowledgeable team. They helped me find my dream home in Milan.",
-    city_country: "Milan, Italy",
+    city_country: "Nakuru, Kenya",
     image: "/profile-pictures/user6.jpg",
   },
   {
@@ -178,7 +178,7 @@ export const TESTIMONIALS = [
     instagram: "@sarah.j",
     feedback:
       "I'm so grateful for their expertise. They made the whole buying process a breeze.",
-    city_country: "Sydney, Australia",
+    city_country: "Kisumu, Kenya",
     image: "/profile-pictures/user7.jpg",
   },
   {
@@ -186,7 +186,7 @@ export const TESTIMONIALS = [
     instagram: "@juan.p",
     feedback:
       "Impressive service. They found me a property that exceeded my expectations.",
-    city_country: "Mexico City, Mexico",
+    city_country: "Nanyuki, Kenya",
     image: "/profile-pictures/user8.jpg",
   },
 ];
