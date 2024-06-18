@@ -1,4 +1,5 @@
 import AboutUs from "@/components/AboutUs";
+import Faq from "@/components/Faq";
 import FeaturedHouses from "@/components/FeaturedHouses";
 import Hero from "@/components/Hero";
 import HowItWorks from "@/components/HowItWorks";
@@ -17,6 +18,7 @@ export default function page() {
       <Services />
       <AboutUs />
       <Testimonials />
+      <Faq />
     </>
   );
 }
