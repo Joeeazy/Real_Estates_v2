@@ -3,6 +3,7 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { Star } from "lucide-react";
+
 export default function FeaturedHouses() {
   return (
     <div className="container mx-auto border-b py-6 pb-10">
@@ -19,7 +20,7 @@ export default function FeaturedHouses() {
                   src={property.image}
                   width={300}
                   height={300}
-                  alt={`Image of ${property.name}`} // Add alt attribute
+                  alt={`Image of ${property.name}`}
                 />
                 <div className="text-center">
                   <h6 className="mb-5 mt-2 font-medium">{property.name}</h6>
