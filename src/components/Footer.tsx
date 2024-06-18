@@ -6,7 +6,7 @@ import {
   InstagramIcon,
   GithubIcon,
 } from "lucide-react";
-import Link from "../../node_modules/next/link";
+import Link from "next/link";
 export default function Footer() {
   return (
     <div className="bg-black text-white py-20">

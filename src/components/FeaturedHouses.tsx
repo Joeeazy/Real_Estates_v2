@@ -1,7 +1,7 @@
 import { FEATURED_PROPERTIES } from "@/constants/index";
 import React from "react";
-import Image from "../../node_modules/next/image";
-import Link from "../../node_modules/next/link";
+import Image from "next/image";
+import Link from "next/link";
 import { Star } from "lucide-react";
 export default function FeaturedHouses() {
   return (
@@ -10,7 +10,7 @@ export default function FeaturedHouses() {
         Featured Properties
       </h2>
       <div className="flex flex-wrap">
-        {FEATURED_PROPERTIES.map((property, index) => (
+        {FEAsTURED_PROPERTIES.map((property, index) => (
           <div key={index} className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4">
             <Link href="#" className="m-2 inline-block">
               <div className="p-8">
