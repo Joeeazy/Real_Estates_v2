@@ -10,7 +10,7 @@ export default function FeaturedHouses() {
         Featured Properties
       </h2>
       <div className="flex flex-wrap">
-        {FEAsTURED_PROPERTIES.map((property, index) => (
+        {FEATURED_PROPERTIES.map((property, index) => (
           <div key={index} className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4">
             <Link href="#" className="m-2 inline-block">
               <div className="p-8">
