@@ -19,6 +19,7 @@ export default function FeaturedHouses() {
                   src={property.image}
                   width={300}
                   height={300}
+                  alt="property pictures"
                 />
                 <div className="text-center">
                   <h6 className="mb-5 mt-2 font-medium">{property.name}</h6>
